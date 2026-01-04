@@ -9,4 +9,4 @@ This was my first time partipicating in a CTF and I was somewhat nervous going i
 # NCL Scouting Report
 [NCL Scouting Report - Individual](https://cyberskyline.com/report/8EUUYF5U2DJK)
 
-[NCL Scouting Report - Team] (https://cyberskyline.com/report/4WXJ9LBW3U4C)
+[NCL Scouting Report - Team](https://cyberskyline.com/report/4WXJ9LBW3U4C)
